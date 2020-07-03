@@ -1,6 +1,9 @@
 sudo: required
 dist: trusty
 
+arch:
+  - arm64
+  - amd64
 git:
   depth: false
 
